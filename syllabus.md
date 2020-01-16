@@ -79,10 +79,10 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs
     <p><a href="http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf">TikZ &amp; PGF</a> by Till Tantau</p>
   </li>
   <li>
-    <p><a href="https://github.com/hfst/hfst/wiki">HFST documentation</a>
+    <p><a href="https://github.com/hfst/hfst/wiki">HFST documentation</a></p>
   </li>
   <li>
-    <p><a href="https://fomafst.github.io/">Foma documentation</a>
+    <p><a href="https://fomafst.github.io/">Foma documentation</a></p>
   </li>
 <!--
   <li>
