@@ -46,7 +46,7 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs
   </li>
   <li>
     <p><a href="https://web.stanford.edu/~laurik/.book2software/twolc.pdf">Two-Level Rule Compiler</a> by Kenneth R. Beesley and Lauri Karttunen</p>
-    <p>This book is <a href="https://web.stanford.edu/~laurik/.book2software/twolc.pdf"> available for free download</a> as a PDF from the authors.</p>
+    <p>This extra chapter from the book is <a href="https://web.stanford.edu/~laurik/.book2software/twolc.pdf"> available for free download</a> as a PDF from the authors.</p>
   </li>
   <li>
     <p><a href="https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592">The Klingon Dictionary</a> by Marc Okrand</p>
