@@ -1,0 +1,5 @@
+_site/
+*.m4v
+quiz/
+local/
+_data/.~lock.goals.csv#

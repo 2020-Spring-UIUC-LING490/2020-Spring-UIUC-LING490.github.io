@@ -1,0 +1,804 @@
+# Week 1
+-
+# title: Welcome
+  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/01.pdf"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Schwartz
+      title: Syllabus
+      url: syllabus.html
+      length:
+          value: 4
+          unit: "pages"
+-
+# title: ""
+  slides: ""
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Lees-Miller
+      title: "An Interactive Introduction to LaTeX (part 1)"
+      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1.pdf"
+      optional: true
+      pages: "1‑21"
+      length:
+          value: 21
+          unit: "pages"
+    -
+      author: Lees-Miller
+      title: "An Interactive Introduction to LaTeX (part 2)"
+      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2.pdf"
+      optional: true
+      pages: "1‑23"
+      length:
+          value: 23
+          unit: "pages"
+    -
+      author: Lees-Miller
+      title: "An Interactive Introduction to LaTeX (part 3)"
+      url: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3.pdf
+      optional: true
+      pages: "1‑34"
+      length:
+          value: 34 
+          unit: "pages"
+    -
+      author: Wikibooks
+      title: LaTeX Wikibook
+      url: https://en.wikibooks.org/wiki/LaTeX
+      optional: true
+      pages: "1‑748"
+      length:
+          value: 748
+          unit: "pages"
+#    -
+#      author: Schwartz
+#      title: "Video lecture: Creating remotes for overleaf and github in the same git repository"
+#      url: https://www.youtube.com/watch?v=6OqFEfH7lBY
+#      times: "0:00-12:43"
+#      length:
+#          value: "12.75"
+#          unit: "minutes"
+#
+# Week 2
+-
+#  title: "Introduction to computational morphology"
+#  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/02.pdf"
+# title: "Applications of computational morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Sproat
+      title: Introduction
+      url: "http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275004.pdf&bkn=6267438&pdfType=chapter"
+      pages: "xi‑xv"
+      length: 
+          value: 5
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 1 - "Applications of computational morphology"
+      url: "http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275008.pdf&bkn=6267438&pdfType=chapter"
+      pages: "1‑14"
+      length: 
+          value: 14
+          unit: "pages"
+-
+#  title: "A Gentle Introduction"
+# title: "A Gentle Introduction to Finite-State Morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Sproat
+      title: Chapter 2.1 - "The nature of morphology&#58; Introduction"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "15‑19"
+      length:
+          value: 5
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Preliminaries
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "xii‑xviii"
+      length:
+          value: 6
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Chapter 1.1-1.4 - "A Gentle Introduction, part 1"
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "1‑17"
+      length:
+          value: 17
+          unit: "pages"
+    -
+      author: Gansner et al.
+      title: Section 1 - "Drawing graphs with dot"
+      url: "http://www.graphviz.org/pdf/dotguide.pdf"
+      pages: "1‑4"
+      length:
+          value: 4
+          unit: "pages"
+    -
+      author: Schwartz
+      title: "Video lecture: Creating graphviz graphs with dot"
+      url: "https://www.youtube.com/watch?v=9B7w_fh4fg8"
+      times: "0:00‑13:23"
+      length:
+          value: "13.4"
+          unit: "minutes"
+-
+# title: "Set Theory and Functions (pt.1)"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: Chapter 1.5-1.9 - "A Gentle Introduction, part 2"
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "17‑37"
+      length:
+          value: 21
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.2 - "Functions of morphology"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "19‑43"
+      length:
+          value: 25
+          unit: "pages"
+-
+# title: "Hands-on"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"
+    -
+      author: Hulden
+      title: "Foma: a finite-state compiler and library"
+      url: http://aclweb.org/anthology/E/E09/E09-2008.pdf
+      pages: "29‑32"
+      length:
+          value: 4
+          unit: "pages"
+    -
+      author: Hulden
+      title: "The foma FST compiler"
+      url: https://github.com/mhulden/foma/blob/master/foma/docs/simpleintro.md
+      length:
+          value: 7
+          unit: "pages"
+#-
+#  title: "Turing Machines"
+#  lecturer: Lane Schwartz
+#  reading:
+#    -
+#      author: Turing (1937)
+#      title: "On Computable Numbers, with an Application to the Entscheidungsproblem"
+#      url: http://onlinelibrary.wiley.com/doi/10.1112/plms/s2-42.1.230/epdf
+#    -
+#      author: Turing (1937)
+#      title: "On Computable Numbers, with an Application to the Entscheidungsproblem. A Correction"
+#      url: http://onlinelibrary.wiley.com/doi/10.1112/plms/s2-43.6.544/epdf
+-
+# title: Formal language theory (pt.1)
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: Chapter 2.1 - "Where We Are"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "43"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Chapter 2.2 - "Basic Concepts"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "43‑45"
+      length:
+          value: 3
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Chapter 2.3 - "Simple Regular Expressions"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "45‑63"
+      length:
+          value: 19
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Chapter 2.4 - "Complex Regular Expressions"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "63‑74"
+      length:
+          value: 12
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: Chapter 2.5 - "Properties of Finite-State Networks"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "74‑78"
+      length:
+          value: 5
+          unit: "pages"
+-
+#  title: "The Chomsky Hierarchy"
+# title: "Set Theory and Functions (pt.2)"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.1 - The xfst Interface"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "81‑84"
+      length:
+          value: 4
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.2 - Compiling regular expressions"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "84‑108"
+      length:
+          value: 25
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.3 - Interacting with the Operating System"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "109‑121"
+      length:
+          value: 13
+          unit: "pages"          
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.4.1 - Modularization"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "121"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.4.2 - Computing with defined variables"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "121-123"
+      length:
+          value: 1
+          unit: "pages"
+-
+# title: "xfst/foma"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.5 - Rule-like Notations"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "130‑182"
+      length:
+          value: 53
+          unit: "pages"
+-
+# title: "xfst/foma"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.6 - Examining Networks"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "182‑189"
+      length:
+          value: 8
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.7 - Miscellaneous Operations on Networks"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "190‑195"
+      length:
+          value: 6
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.8 - Advanced xfst"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "195‑201"
+      length:
+          value: 7
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.9 - Operator Precedence"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "201"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 3.10 - Conclusion"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "202"
+      length:
+          value: 1
+          unit: "pages"
+-
+# title: "lexc"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 4.1 - The lexc language"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "203‑204"
+      length:
+          value: 2
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 4.2 - Defining Simple Automata"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "204‑226"
+      length:
+          value: 23
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 4.3 - Defining Lexical Transducers"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "226‑240"
+      length:
+          value: 15
+          unit: "pages"
+-
+# title: "lexc"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Okrand
+      title: "Chapter 3: Nouns"
+      url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
+      pages: "19-31"
+      length:
+         value: 13
+         unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 4.4 - Useful lexc strategies"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "240‑258"
+      length:
+          value: 19
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 4.5 - Integration and Testing"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "259‑270"
+      length:
+          value: 12
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 4.6 - lexc Summary and Usage Notes"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "270‑278"
+      length:
+          value: 9
+          unit: "pages"
+-
+# title: "Planning and Managing Finite-State Projects"
+  slides: https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/16.pdf
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 7 - Flag Diacritics"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "339‑374"
+      length:
+          value: 36
+          unit: "pages"  
+-
+# title: "Finite State Machines"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 5.0 - Planning and Managing Finite-State Projects"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "279"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 5.1 - Infrastructure"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "279‑283"
+      optional: true
+      length:
+          value: 5
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 5.2 - Linguistic Planning"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "283‑293"
+      length:
+          value: 11
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 5.3 - Composition is Our Friend"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "293‑300"
+      length:
+          value: 8
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 5.4 - Priority Union for Irregular Forms"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "300‑307"
+      length:
+          value: 8
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 5.5 - Conclusions"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "307‑310"
+      length:
+          value: 4
+          unit: "pages"
+-
+# title: "xfst/foma"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.1 - The Challenge of Testing and Debugging"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "311"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.2 - Testing on Real Corpora"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "311‑319"
+      length:
+          value: 9
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.3 - Checking the Alphabet"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "319‑327"
+      length:
+          value: 9
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.4 - Testing with Subtraction"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "327‑338"
+      length:
+          value: 12
+          unit: "pages"
+-
+# title: "Regular Expressions and Finite State Machines"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 8 - Non-Concatenative Morphotactics"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "375-419"
+      length:
+          value: 45
+          unit: "pages"   
+-
+#  title: "Drawing in LaTeX using TikZ/PGF" 
+  lecturer: Lane Schwartz
+# title: "Set Theory and Functions (pt.3)"
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 9 - Finite State Linguistic Applications"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "421‑455"
+      length:
+          value: 35
+          unit: "pages"
+-
+#  title: Morphology
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Sproat
+      title: Chapter 2.3 - "What is combined, and how?"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "43‑66"
+      length:
+          value: 24
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.4 - "Morphemes, structure of words, & word-formation rules"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "66‑83"
+      length:
+          value: 18
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.5 - "Morphotactics&#58; The Order of Morphemes"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "83‑92"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.6 - "Phonology"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "92‑108"
+      length:
+          value: 17
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.7 - "Psycholinguistic evidence"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "109‑122"
+      length:
+          value: 14
+          unit: "pages" 
+    -
+      author: Sproat
+      title: Chapter 2.8 - "Final note"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "122‑123"
+      length:
+          value: 2
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.9 - "Further reading"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "123"
+      length:
+          value: 1
+          unit: "pages"
+-
+  title: "Spring Break"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Spring Break
+      title: Tuesday, Mar 19
+-
+  title: "Spring Break"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Spring Break
+      title: Thursday, Mar 21
+-
+# title: "Testing and Debugging"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Midterm exam review
+      title: Tuesday, Mar 26
+-
+# title: "Flag Diacritics"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Midterm exam
+      title: Thursday, Mar 28
+-
+# title: 
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Partee et al.
+      title: Chapter 1 - "Basic Concepts of Set Theory"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
+      pages: "3‑26"
+      optional: true
+      length:
+          value: 24
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 2 - "Relations and Functions"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
+      pages: "27‑36"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 16 - "Basic Concepts"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
+      pages: "433‑454"
+      length:
+          value: 22
+          unit: "pages"
+    -
+      author: Chomsky (1956)
+      title: "Three Models for the Description of Language"
+      url: https://chomsky.info/wp-content/uploads/195609-.pdf
+      optional: true
+      pages: "113‑124"
+      length:
+          value: 12
+          unit: "pages"
+    -
+      author: Tantau
+      title: "Chapter 2 - Tutorial: A Picture for Karl’s Students"
+      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+      optional: true
+      pages: "30‑48"
+      length:
+          value: 19
+          unit: "pages"
+    -
+      author: Tantau
+      title: "Chapter 3 - Tutorial: A Petri-Net for Hagen"
+      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+      pages: "49‑60"
+      length:
+          value: 12
+          unit: "pages"
+    -
+      author: Tantau
+      title: "Chapter 5 - Tutorial: Diagrams as Simple Graphs"
+      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+      pages: "69‑77"
+      length:
+          value: 9
+          unit: "pages"
+    -
+      author: Tantau
+      title: "Chapter 6 - Tutorial: A Lecture Map for Johannes"
+      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+      optional: true
+      pages: "78‑92"
+      length:
+          value: 15
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
+      pages: "455‑482"
+      length:
+          value: 28
+          unit: "pages" 
+-
+# title: "Applications"
+  lecturer: Lane Schwartz
+  reading:
+-
+# title: Supervised learning
+  lecturer: Lane Schwartz
+  reading: 
+    -
+      author: Chrupala et al
+      title: "Learning Morphology with Morfette"
+      url: http://www.lrec-conf.org/proceedings/lrec2008/pdf/594_paper.pdf
+      pages: "2362‑2366"
+      length:
+          value: 5
+          unit: "pages"
+#    -
+#      author: Durett and DeNero
+#      title: "Video presentation"
+#      url: http://techtalks.tv/talks/supervised-learning-of-complete-morphological-paradigms/58524/  
+#      pages: ""
+#      length:
+#          value: 
+#          unit: "minutes"
+    -
+      author: Durett and DeNero
+      title: "Supervised Learning of Complete Morphological Paradigms"
+      url: http://aclweb.org/anthology/N/N13/N13-1138.pdf
+      pages: "1185‑1193"
+      length:
+          value: 9
+          unit: "pages"
+-
+# title: Supervised learning
+  lecturer: Lane Schwartz
+  reading: 
+    -
+      author: Hulden et al
+      title: "Semi-supervised learning of morphological paradigms and lexicons"
+      url: http://aclweb.org/anthology/E/E14/E14-1060.pdf
+      pages: "569‑576"
+      length:
+          value: 8
+          unit: "pages"
+    -
+      author: Ahlberg et al
+      title: "Paradigm classification in supervised learning of morphology"
+      url: http://aclweb.org/anthology/N/N15/N15-1107.pdf
+      pages: "1024‑1028"
+      length:
+          value: 5
+          unit: "pages"
+-
+# title: Unsupervised learning
+  lecturer: Lane Schwartz
+  reading: 
+    -
+      author: Goldsmith
+      title: "Segmentation and Morphology"
+      url: "http://people.cs.uchicago.edu/~jagoldsm/papers/2010-segmentation.pdf"
+      pages: "3‑35"
+      length:
+          value: 33
+          unit: "pages"
+-
+# title: Unsupervised learning
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Roark and Sproat
+      title: Chapter 5 - "Machine Learning of Morphology"
+      pages: "116‑136"
+      length:
+          value: 21
+          unit: "pages"
+-
+# title: Two-level phonology
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Roark and Sproat
+      title: Chapter 4 - "A Brief History of Computational Morphology"
+      pages: "100‑115"
+      length:
+          value: 16
+          unit: "pages"
+    -
+      author: Antworth
+      title: Appendix B - "Two-level Phonology Revisited"
+      url: "https://web.archive.org/web/20161231023914/http://www-01.sil.org:80/pckimmo/v2/doc/twolphon.html"
+      length:
+          value: 17
+          unit: "pages"
+-
+# title: Optimality Theory
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Karttunen
+      title: "The Proper Treatment of Optimality in Computational Phonology"
+      url: http://www.aclweb.org/anthology/W98-1301
+      pages: "1‑11"
+      length:
+          value: 11
+          unit: "pages"
+-
+# title: "Final day of class"
+  lecturer: Lane Schwartz
+-
+# title: Reading day
+  lecturer: Lane Schwartz
