@@ -11,11 +11,6 @@
       length:
           value: 4
           unit: "pages"
--
-# title: ""
-  slides: ""
-  lecturer: Lane Schwartz
-  reading:
     -
       author: Lees-Miller
       title: "An Interactive Introduction to LaTeX (part 1)"
@@ -52,16 +47,6 @@
       length:
           value: 748
           unit: "pages"
-#    -
-#      author: Schwartz
-#      title: "Video lecture: Creating remotes for overleaf and github in the same git repository"
-#      url: https://www.youtube.com/watch?v=6OqFEfH7lBY
-#      times: "0:00-12:43"
-#      length:
-#          value: "12.75"
-#          unit: "minutes"
-#
-# Week 2
 -
 #  title: "Introduction to computational morphology"
 #  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/02.pdf"
@@ -83,6 +68,46 @@
       pages: "1‑14"
       length: 
           value: 14
+          unit: "pages"
+
+#    -
+#      author: Schwartz
+#      title: "Video lecture: Creating remotes for overleaf and github in the same git repository"
+#      url: https://www.youtube.com/watch?v=6OqFEfH7lBY
+#      times: "0:00-12:43"
+#      length:
+#          value: "12.75"
+#          unit: "minutes"
+#
+# Week 2
+-
+# title: ""
+  slides: ""
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Partee et al.
+      title: Chapter 1 - "Basic Concepts of Set Theory"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
+      pages: "3‑26"
+      length:
+          value: 24
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 2 - "Relations and Functions"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
+      pages: "27‑36"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 16 - "Basic Concepts"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
+      pages: "433‑454"
+      length:
+          value: 22
           unit: "pages"
 -
 #  title: "A Gentle Introduction"
@@ -615,31 +640,6 @@
 # title: 
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Partee et al.
-      title: Chapter 1 - "Basic Concepts of Set Theory"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
-      pages: "3‑26"
-      optional: true
-      length:
-          value: 24
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 2 - "Relations and Functions"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
-      pages: "27‑36"
-      length:
-          value: 10
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 16 - "Basic Concepts"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
-      pages: "433‑454"
-      length:
-          value: 22
-          unit: "pages"
     -
       author: Chomsky (1956)
       title: "Three Models for the Description of Language"
