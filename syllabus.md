@@ -13,14 +13,14 @@ active_tab: syllabus
 <p>Introduction to the main approaches, tools, and methods related to computational modeling and learning of morphology and morphophonology.</p>    
     
 <h4>Instructor</h4>
-[Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours Tue 5:10 PM - 6:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4019, and by appointment. If there are students waiting in line at 6 PM, I will generally stay as late as needed. If you can't come during those times but you can come at some point after 6:00 PM, please contact me via private message on Piazza to arrange a time later on Tuesday.
+[Lane Schwartz](http://www.linguistics.illinois.edu/people/lanes) - Office hours Tue 5:20 PM - 6:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 4019, and by appointment. If there are students waiting in line at 6 PM, I will generally stay as late as needed. If you can't come during those times but you can come at some point after 6:00 PM, please contact me via private message on Piazza to arrange a time later on Tuesday.
 
 
 <h4>TA</h4>
-[Caitlin Cassidy](https://www.caitlincassidy.net/) - Office hours Wed 10:00 AM - 12:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 3028, and by appointment
+[Giang Ha Le](https://linguistics.illinois.edu/directory/profile/gianghl2) - Office hours TBD
 
 <h4>Time and place</h4>
-Tuesdays and Thursdays 2:00-3:20 PM, [1203 1/2 W. Nevada Street, Computer Lab](https://techservices.illinois.edu/services/computer-labs/nevada-building-computer-lab)
+Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room G23
 
 <h4>Prerequisites</h4>
 
@@ -43,6 +43,10 @@ Tuesdays and Thursdays 2:00-3:20 PM, [1203 1/2 W. Nevada Street, Computer Lab](h
   <li>
     <p><a href="https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml">Finite State Morphology</a> by Kenneth R. Beesley and Lauri Karttunen</p>
     <p>This book is <a href="https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"> available for purchase</a> as a PDF and as a paper book directly from the publisher. You will need to purchase this book.</p>
+  </li>
+  <li>
+    <p><a href="https://web.stanford.edu/~laurik/.book2software/twolc.pdf">Two-Level Rule Compiler</a> by Kenneth R. Beesley and Lauri Karttunen</p>
+    <p>This book is <a href="https://web.stanford.edu/~laurik/.book2software/twolc.pdf"> available for free download</a> as a PDF from the authors.</p>
   </li>
   <li>
     <p><a href="https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592">The Klingon Dictionary</a> by Marc Okrand</p>
@@ -73,6 +77,12 @@ Tuesdays and Thursdays 2:00-3:20 PM, [1203 1/2 W. Nevada Street, Computer Lab](h
   <li><p><a href="https://en.wikibooks.org/wiki/LaTeX">The LaTeX Wikibook</a></p></li>
   <li>
     <p><a href="http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf">TikZ &amp; PGF</a> by Till Tantau</p>
+  </li>
+  <li>
+    <p><a href="https://github.com/hfst/hfst/wiki">HFST documentation</a>
+  </li>
+  <li>
+    <p><a href="https://fomafst.github.io/">Foma documentation</a>
   </li>
 <!--
   <li>
