@@ -11,42 +11,42 @@
       length:
           value: 4
           unit: "pages"
-    -
-      author: Lees-Miller
-      title: "An Interactive Introduction to LaTeX (part 1)"
-      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1.pdf"
-      optional: true
-      pages: "1‑21"
-      length:
-          value: 21
-          unit: "pages"
-    -
-      author: Lees-Miller
-      title: "An Interactive Introduction to LaTeX (part 2)"
-      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2.pdf"
-      optional: true
-      pages: "1‑23"
-      length:
-          value: 23
-          unit: "pages"
-    -
-      author: Lees-Miller
-      title: "An Interactive Introduction to LaTeX (part 3)"
-      url: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3.pdf
-      optional: true
-      pages: "1‑34"
-      length:
-          value: 34 
-          unit: "pages"
-    -
-      author: Wikibooks
-      title: LaTeX Wikibook
-      url: https://en.wikibooks.org/wiki/LaTeX
-      optional: true
-      pages: "1‑748"
-      length:
-          value: 748
-          unit: "pages"
+#    -
+#      author: Lees-Miller
+#      title: "An Interactive Introduction to LaTeX (part 1)"
+#      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1.pdf"
+#      optional: true
+#      pages: "1‑21"
+#      length:
+#          value: 21
+#          unit: "pages"
+#    -
+#      author: Lees-Miller
+#      title: "An Interactive Introduction to LaTeX (part 2)"
+#      url: "https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-2.pdf"
+#      optional: true
+#      pages: "1‑23"
+#      length:
+#          value: 23
+#          unit: "pages"
+#    -
+#      author: Lees-Miller
+#      title: "An Interactive Introduction to LaTeX (part 3)"
+#      url: https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-3.pdf
+#      optional: true
+#      pages: "1‑34"
+#      length:
+#          value: 34 
+#          unit: "pages"
+#    -
+#      author: Wikibooks
+#      title: LaTeX Wikibook
+#      url: https://en.wikibooks.org/wiki/LaTeX
+#      optional: true
+#      pages: "1‑748"
+#      length:
+#          value: 748
+#          unit: "pages"
 -
 #  title: "Introduction to computational morphology"
 #  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/02.pdf"
@@ -69,7 +69,27 @@
       length: 
           value: 14
           unit: "pages"
-
+    -
+      author: Rosenfelder
+      title: Chapter 1 - "Introduction"
+      pages: "7-12"
+      length: 
+          value: 5
+          unit: "pages"
+    -
+      author: Rosenfelder
+      title: Chapter 2 - "A naming language"
+      pages: "13-16"
+      length: 
+          value: 4
+          unit: "pages"
+    -
+      author: Rosenfelder
+      title: Chapter 3 - "The overall process"
+      pages: "17-26"
+      length: 
+          value: 10
+          unit: "pages"
 #    -
 #      author: Schwartz
 #      title: "Video lecture: Creating remotes for overleaf and github in the same git repository"
