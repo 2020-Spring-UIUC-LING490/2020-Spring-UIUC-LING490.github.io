@@ -10,7 +10,7 @@ active_tab: main_page
 
 During this course, it is expected that students will gain mastery of the following concepts and goals.
 
-<h3>Linguistic foundations underlying computational morphology</h3>
+<h4>Linguistic foundations underlying computational morphology</h4>
 
 * Phonetics and phonology, including:
   * International phonetic alphabet
@@ -45,7 +45,7 @@ During this course, it is expected that students will gain mastery of the follow
 
 
 
-<h3>Mathematical foundations underlying computational morphology</h3>
+<h4>Mathematical foundations underlying computational morphology</h4>
 
 * Set theory, including:
   * Definitions and ways to specifiy and visualize sets
@@ -64,7 +64,7 @@ During this course, it is expected that students will gain mastery of the follow
   * Composition
   
   
-<h3>Formal language theory foundations underlying computational morphology</h3>
+<h4>Formal language theory foundations underlying computational morphology</h4>
 
 * Definitions of and relationship between language, grammar, and automata
 * Regular languages and regular expressions
@@ -74,7 +74,7 @@ During this course, it is expected that students will gain mastery of the follow
   * Finite state diagrams and visualization conventions
 
 
-<h3>XFST and related finite-state morphology tools</h3>
+<h4>XFST and related finite-state morphology tools</h4>
 
 * XFST, Foma, and HFST
 * XFST-style REPL and rules file format, including:
@@ -90,7 +90,7 @@ During this course, it is expected that students will gain mastery of the follow
 * Two-level formalism and file format
 
 
-<h3>Implementation of finite-state morphological analyzer / generator</h3>
+<h4>Implementation of finite-state morphological analyzer / generator</h4>
 
 * Read and understand a reference grammar of a language
 * Implement the lexicon and rules of the language as an FST
@@ -98,7 +98,7 @@ During this course, it is expected that students will gain mastery of the follow
 * Applications of computational morphology
 
 
-<h3>Machine learning of morphology</h3>
+<h4>Machine learning of morphology</h4>
 
 * SIGMORPHON and current research
 * Bootstrapping from finite-state systems
