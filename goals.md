@@ -74,7 +74,7 @@ During this course, it is expected that students will gain mastery of the follow
   * Finite state diagrams and visualization conventions
 
 
-<h4>XFST and related finite-state morphology tools</h4>
+<h4>Computational morphology finite-state toolkits</h4>
 
 * XFST, Foma, and HFST
 * XFST-style REPL and rules file format, including:
