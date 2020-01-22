@@ -60,6 +60,9 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs
   	<p><a href="https://link.springer.com/book/10.1007%2F978-94-009-2213-6">Mathematical Methods in Linguistics</a> by Barbara H. Partee, Alice Ter Meulen, Robert E. Wall</p>
 	<p>This book is <a href="https://link.springer.com/book/10.1007%2F978-94-009-2213-6">available for free in PDF form</a> through the University of Illinois via Springer Link (you probably need to be on campus to access the free PDF).</p>
   </li>
+  <li>
+	  <p><a href="https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4">The Language Construction Kit</a> by Mark Rosenfelder. You will need to purchase this book.</p>
+  </li>
 </ul>
 
 
@@ -147,7 +150,7 @@ All communication with the instructor and with any TAs should be conducted exclu
 <h4>Academic Integrity</h4>
 
 <p>
-This course follows the <a href="http://studentcode.illinois.edu/article1_part4_1-401.html">University of Illinois Student Code regarding Academic Integrity</a>. The College of Liberal Arts and Sciences also has <a href="http://www.las.illinois.edu/students/integrity/">an excellent web page on the topic</a>. You are required to thoroughly read these resources prior to the second day of class, and to thoroughly understand your responsibilities with regard to Academic Integrity. 
+This course follows the <a href="https://studentcode.illinois.edu/article1/part4/1-401/">University of Illinois Student Code regarding Academic Integrity</a>. The College of Liberal Arts and Sciences also has <a href="http://www.las.illinois.edu/students/integrity/">an excellent web page on the topic</a>. You are required to thoroughly read these resources prior to the second day of class, and to thoroughly understand your responsibilities with regard to Academic Integrity. 
 </p>
 
 <p>
