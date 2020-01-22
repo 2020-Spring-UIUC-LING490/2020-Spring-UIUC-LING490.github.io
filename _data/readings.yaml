@@ -559,6 +559,20 @@
           value: 45
           unit: "pages"   
 -
+  title: "Spring Break"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Spring Break
+      title: Tuesday, Mar 17
+-
+  title: "Spring Break"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Spring Break
+      title: Thursday, Mar 19
+-
 #  title: "Drawing in LaTeX using TikZ/PGF" 
   lecturer: Lane Schwartz
 # title: "Set Theory and Functions (pt.3)"
@@ -631,20 +645,6 @@
       length:
           value: 1
           unit: "pages"
--
-  title: "Spring Break"
-  lecturer: Lane Schwartz
-  reading:
-    - 
-      author: Spring Break
-      title: Tuesday, Mar 19
--
-  title: "Spring Break"
-  lecturer: Lane Schwartz
-  reading:
-    - 
-      author: Spring Break
-      title: Thursday, Mar 21
 -
 # title: "Testing and Debugging"
   lecturer: Lane Schwartz
