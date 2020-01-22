@@ -11,6 +11,7 @@ active_tab: main_page
 During this course, it is expected that students will gain mastery of the following concepts and goals.
 
 <h3>Linguistic foundations underlying computational morphology</h3>
+
 * Phonetics and phonology, including:
   * International phonetic alphabet
   * Place and manner of articulation
@@ -42,7 +43,10 @@ During this course, it is expected that students will gain mastery of the follow
   * Number
 * Leipzig glossing conventions
 
+
+
 <h3>Mathematical foundations underlying computational morphology</h3>
+
 * Set theory, including:
   * Definitions and ways to specifiy and visualize sets
   * Algebra of sets, including
@@ -59,7 +63,9 @@ During this course, it is expected that students will gain mastery of the follow
   * Projection
   * Composition
   
+  
 <h3>Formal language theory foundations underlying computational morphology</h3>
+
 * Definitions of and relationship between language, grammar, and automata
 * Regular languages and regular expressions
 * Finite state automata
@@ -67,7 +73,9 @@ During this course, it is expected that students will gain mastery of the follow
   * Finite state transducers
   * Finite state diagrams and visualization conventions
 
+
 <h3>XFST and related finite-state morphology tools</h3>
+
 * XFST, Foma, and HFST
 * XFST-style REPL and rules file format, including:
   * Regular expressions
@@ -81,13 +89,17 @@ During this course, it is expected that students will gain mastery of the follow
   * Flag diacritics
 * Two-level formalism and file format
 
+
 <h3>Implementation of finite-state morphological analyzer / generator</h3>
+
 * Read and understand a reference grammar of a language
 * Implement the lexicon and rules of the language as an FST
 * Verify and test the coverage of the FST
 * Applications of computational morphology
 
+
 <h3>Machine learning of morphology</h3>
+
 * SIGMORPHON and current research
 * Bootstrapping from finite-state systems
 
