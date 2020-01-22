@@ -84,6 +84,7 @@ During this course, it is expected that students will gain mastery of the follow
 * Implementation of finite-state morphological analyzer / generator
   * Read and understand a reference grammar of a language
   * Implement the lexicon and rules of the language as an FST
+  * Verify and test the coverage of the FST
 
 * Machine learning of morphology
   * SIGMORPHON and current research
