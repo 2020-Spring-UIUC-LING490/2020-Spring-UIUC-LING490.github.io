@@ -131,7 +131,12 @@
       pages: "43‑66"
       length:
           value: 24
-          unit: "pages"
+          unit: "pages"       
+-
+#  title: "A Gentle Introduction"
+# title: "A Gentle Introduction to Finite-State Morphology"
+  lecturer: Lane Schwartz
+  reading:
     -
       author: Sproat
       title: Chapter 2.4 - "Morphemes, structure of words, & word-formation rules"
@@ -179,10 +184,9 @@
       pages: "123"
       length:
           value: 1
-          unit: "pages"          
+          unit: "pages"     
 -
-#  title: "A Gentle Introduction"
-# title: "A Gentle Introduction to Finite-State Morphology"
+# title: "Set Theory and Functions (pt.1)"
   lecturer: Lane Schwartz
   reading:
     -
@@ -208,9 +212,9 @@
       pages: "433‑454"
       length:
           value: 22
-          unit: "pages"  
+          unit: "pages"    
 -
-# title: "Set Theory and Functions (pt.1)"
+# title: "Hands-on"
   lecturer: Lane Schwartz
   reading:
     -
@@ -252,11 +256,7 @@
       pages: "17‑37"
       length:
           value: 21
-          unit: "pages"
--
-# title: "Hands-on"
-  lecturer: Lane Schwartz
-  reading:
+          unit: "pages"  
     -
       author: Hulden
       title: "Morphological analysis with FSTs"
