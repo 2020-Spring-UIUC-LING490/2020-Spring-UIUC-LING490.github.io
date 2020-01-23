@@ -109,6 +109,83 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Sproat
+      title: Chapter 2.1 - "The nature of morphology&#58; Introduction"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "15‑19"
+      length:
+          value: 5
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.2 - "Functions of morphology"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "19‑43"
+      length:
+          value: 25
+          unit: "pages"     
+    -
+      author: Sproat
+      title: Chapter 2.3 - "What is combined, and how?"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "43‑66"
+      length:
+          value: 24
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.4 - "Morphemes, structure of words, & word-formation rules"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "66‑83"
+      length:
+          value: 18
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.5 - "Morphotactics&#58; The Order of Morphemes"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "83‑92"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.6 - "Phonology"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "92‑108"
+      length:
+          value: 17
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.7 - "Psycholinguistic evidence"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "109‑122"
+      length:
+          value: 14
+          unit: "pages" 
+    -
+      author: Sproat
+      title: Chapter 2.8 - "Final note"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "122‑123"
+      length:
+          value: 2
+          unit: "pages"
+    -
+      author: Sproat
+      title: Chapter 2.9 - "Further reading"
+      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
+      pages: "123"
+      length:
+          value: 1
+          unit: "pages"          
+-
+#  title: "A Gentle Introduction"
+# title: "A Gentle Introduction to Finite-State Morphology"
+  lecturer: Lane Schwartz
+  reading:
+    -
       author: Partee et al.
       title: Chapter 1 - "Basic Concepts of Set Theory"
       url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
@@ -131,20 +208,11 @@
       pages: "433‑454"
       length:
           value: 22
-          unit: "pages"
+          unit: "pages"  
 -
-#  title: "A Gentle Introduction"
-# title: "A Gentle Introduction to Finite-State Morphology"
+# title: "Set Theory and Functions (pt.1)"
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Sproat
-      title: Chapter 2.1 - "The nature of morphology&#58; Introduction"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "15‑19"
-      length:
-          value: 5
-          unit: "pages"
     -
       author: Beesley and Karttunen
       title: Preliminaries
@@ -176,11 +244,7 @@
       times: "0:00‑13:23"
       length:
           value: "13.4"
-          unit: "minutes"
--
-# title: "Set Theory and Functions (pt.1)"
-  lecturer: Lane Schwartz
-  reading:
+          unit: "minutes"  
     -
       author: Beesley and Karttunen
       title: Chapter 1.5-1.9 - "A Gentle Introduction, part 2"
@@ -188,14 +252,6 @@
       pages: "17‑37"
       length:
           value: 21
-          unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 2.2 - "Functions of morphology"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "19‑43"
-      length:
-          value: 25
           unit: "pages"
 -
 # title: "Hands-on"
@@ -589,62 +645,7 @@
 #  title: Morphology
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Sproat
-      title: Chapter 2.3 - "What is combined, and how?"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "43‑66"
-      length:
-          value: 24
-          unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 2.4 - "Morphemes, structure of words, & word-formation rules"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "66‑83"
-      length:
-          value: 18
-          unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 2.5 - "Morphotactics&#58; The Order of Morphemes"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "83‑92"
-      length:
-          value: 10
-          unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 2.6 - "Phonology"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "92‑108"
-      length:
-          value: 17
-          unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 2.7 - "Psycholinguistic evidence"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "109‑122"
-      length:
-          value: 14
-          unit: "pages" 
-    -
-      author: Sproat
-      title: Chapter 2.8 - "Final note"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "122‑123"
-      length:
-          value: 2
-          unit: "pages"
-    -
-      author: Sproat
-      title: Chapter 2.9 - "Further reading"
-      url: http://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=6275007.pdf&bkn=6267438&pdfType=chapter&tag=1
-      pages: "123"
-      length:
-          value: 1
-          unit: "pages"
+
 -
 # title: "Testing and Debugging"
   lecturer: Lane Schwartz
