@@ -105,9 +105,25 @@ Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs
 <li><b>Exam(s)</b>: 20%</li>
 </ul>
 -->
+
+
+<p>
+Students are expected complete all assigned readings and video lectures prior to the class for which they are assigned.
+</p>
+
 <p>
 Students will be assessed on the extent to which they have attained the learning goals & outcomes. This assessment will be primarily hands-on, assessed through a combination of practical exercises, homework assignments, projects, quizzes and exams.
 </p>
+
+<ul>
+<li><b>Programming Assignments</b>: 25%</li>
+<li><b>Other Homework</b>: 7%</li>
+<li><b>Reading log</b>: 3%</li>
+<li><b>Final Project</b>: 15%</li>
+<li><b>Mid-term Exam 1</b>: 15%</li>
+<li><b>Mid-term Exam 2</b>: 15%</li>
+<li><b>Comprehensive Final Exam</b>: 20%</li>
+</ul>
 
 <p>
 Grades will be assessed on a 10-point fixed letter grade system. <a href="http://en.wikipedia.org/wiki/Grading_on_a_curve">Grading on a curve</a> will <strong>not</strong> be used. In the table below, square brackets and parentheses are used to indicate <a href="https://en.wikipedia.org/wiki/Interval_(mathematics)#Including_or_excluding_endpoints">inclusive and exclusive endpoints</a>, respectively.
