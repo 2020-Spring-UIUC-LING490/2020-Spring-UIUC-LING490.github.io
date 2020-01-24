@@ -141,6 +141,15 @@
       length:
           value: 8
           unit: "pages"    
+    -
+      author: Lieber
+      title: Chapter 3 - "Lexeme formation"
+      url: https://www.cambridge.org/us/academic/subjects/languages-linguistics/morphology/introducing-morphology-2nd-edition
+      optional: true
+      pages: "35-59"
+      length:
+          value: 25
+          unit: "pages" 
 -
 #  title: "A Gentle Introduction"
 # title: "A Gentle Introduction to Finite-State Morphology"
