@@ -246,15 +246,7 @@
       times: "0:00‑13:23"
       length:
           value: "13.4"
-          unit: "minutes"  
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      optional: true
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"          
+          unit: "minutes"          
 -
   title: "Set Theory"
   lecturer: Lane Schwartz
@@ -274,7 +266,15 @@
       pages: "100‑115"
       length:
           value: 16
-          unit: "pages"          
+          unit: "pages"      
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      optional: true
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"            
 -
   title: A More Systematic Introduction to Finite-State Morphology
   lecturer: Lane Schwartz
