@@ -783,6 +783,29 @@
 #          value: 15
 #          unit: "pages"
 -
+# title: Unsupervised learning
+  lecturer: Lane Schwartz
+  reading: 
+    -
+      author: Goldsmith
+      title: "Segmentation and Morphology"
+      url: "http://people.cs.uchicago.edu/~jagoldsm/papers/2010-segmentation.pdf"
+      pages: "3‑35"
+      length:
+          value: 33
+          unit: "pages"
+-
+# title: Unsupervised learning
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Roark and Sproat
+      title: Chapter 5 - "Machine Learning of Morphology"
+      pages: "116‑136"
+      length:
+          value: 21
+          unit: "pages"
+-
 # title: Supervised learning
   lecturer: Lane Schwartz
   reading: 
@@ -829,29 +852,6 @@
       pages: "1024‑1028"
       length:
           value: 5
-          unit: "pages"
--
-# title: Unsupervised learning
-  lecturer: Lane Schwartz
-  reading: 
-    -
-      author: Goldsmith
-      title: "Segmentation and Morphology"
-      url: "http://people.cs.uchicago.edu/~jagoldsm/papers/2010-segmentation.pdf"
-      pages: "3‑35"
-      length:
-          value: 33
-          unit: "pages"
--
-# title: Unsupervised learning
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Roark and Sproat
-      title: Chapter 5 - "Machine Learning of Morphology"
-      pages: "116‑136"
-      length:
-          value: 21
           unit: "pages"
 -
 # title: Two-level phonology
