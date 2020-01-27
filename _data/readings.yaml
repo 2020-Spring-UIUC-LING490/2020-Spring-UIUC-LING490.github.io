@@ -48,9 +48,8 @@
 #          value: 748
 #          unit: "pages"
 -
-#  title: "Introduction to computational morphology"
 #  slides: "https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/02.pdf"
-# title: "Applications of computational morphology"
+  title: "Introduction to computational morphology"
   lecturer: Lane Schwartz
   reading:
     -
@@ -231,6 +230,14 @@
       length:
           value: 22
           unit: "pages"    
+    -
+      author: Partee et al.
+      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
+      pages: "455‑482"
+      length:
+          value: 28
+          unit: "pages" 
 -
 # title: "Hands-on"
   lecturer: Lane Schwartz
@@ -725,14 +732,6 @@
       length:
           value: 15
           unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
-      pages: "455‑482"
-      length:
-          value: 28
-          unit: "pages" 
 -
 # title: "Applications"
   lecturer: Lane Schwartz
