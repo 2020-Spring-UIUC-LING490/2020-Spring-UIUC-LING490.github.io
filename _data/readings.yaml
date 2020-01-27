@@ -361,7 +361,7 @@
 
 -
 #  title: "The Chomsky Hierarchy"
-# title: "Set Theory and Functions (pt.2)"
+  title: "A domain-specific language for finite-state morphology"
   lecturer: Lane Schwartz
   reading:
     -
@@ -405,7 +405,7 @@
           value: 1
           unit: "pages"
 -
-# title: "xfst/foma"
+  title: "A domain-specific language for finite-state morphology"
   lecturer: Lane Schwartz
   reading:
     -
@@ -417,7 +417,7 @@
           value: 53
           unit: "pages"
 -
-# title: "xfst/foma"
+  title: "A domain-specific language for finite-state morphology"
   lecturer: Lane Schwartz
   reading:
     -
@@ -461,7 +461,7 @@
           value: 1
           unit: "pages"
 -
-# title: "lexc"
+  title: "A domain-specific language for representing lexicons"
   lecturer: Lane Schwartz
   reading:
     -
@@ -489,7 +489,7 @@
           value: 15
           unit: "pages"
 -
-# title: "lexc"
+  title: "A domain-specific language for representing lexicons"
   lecturer: Lane Schwartz
   reading:
     -
