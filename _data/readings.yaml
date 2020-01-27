@@ -103,7 +103,7 @@
 #
 # Week 2
 -
-# title: ""
+  title: "Linguistic foundations"
   slides: ""
   lecturer: Lane Schwartz
   reading:
@@ -151,7 +151,7 @@
           unit: "pages" 
 -
 #  title: "A Gentle Introduction"
-# title: "A Gentle Introduction to Finite-State Morphology"
+  title: "Linguistic foundations"
   lecturer: Lane Schwartz
   reading:
     -
@@ -203,42 +203,6 @@
           value: 1
           unit: "pages"     
 -
-# title: "Set Theory and Functions (pt.1)"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Partee et al.
-      title: Chapter 1 - "Basic Concepts of Set Theory"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
-      pages: "3‑26"
-      length:
-          value: 24
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 2 - "Relations and Functions"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
-      pages: "27‑36"
-      length:
-          value: 10
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 16 - "Basic Concepts"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
-      pages: "433‑454"
-      length:
-          value: 22
-          unit: "pages"    
-    -
-      author: Partee et al.
-      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
-      pages: "455‑482"
-      length:
-          value: 28
-          unit: "pages" 
--
 # title: "Hands-on"
   lecturer: Lane Schwartz
   reading:
@@ -282,28 +246,42 @@
       length:
           value: 21
           unit: "pages"  
+-
+# title: "Set Theory and Functions (pt.1)"
+  lecturer: Lane Schwartz
+  reading:
     -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      url: https://fomafst.github.io/morphtut.html
+      author: Partee et al.
+      title: Chapter 1 - "Basic Concepts of Set Theory"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_1.pdf"
+      pages: "3‑26"
       length:
-          value: 25
+          value: 24
           unit: "pages"
     -
-      author: Hulden
-      title: "Foma: a finite-state compiler and library"
-      url: http://aclweb.org/anthology/E/E09/E09-2008.pdf
-      pages: "29‑32"
+      author: Partee et al.
+      title: Chapter 2 - "Relations and Functions"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
+      pages: "27‑36"
       length:
-          value: 4
+          value: 10
           unit: "pages"
     -
-      author: Hulden
-      title: "The foma FST compiler"
-      url: https://github.com/mhulden/foma/blob/master/foma/docs/simpleintro.md
+      author: Partee et al.
+      title: Chapter 16 - "Basic Concepts"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
+      pages: "433‑454"
       length:
-          value: 7
-          unit: "pages"
+          value: 22
+          unit: "pages"    
+    -
+      author: Partee et al.
+      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
+      pages: "455‑482"
+      length:
+          value: 28
+          unit: "pages" 
 #-
 #  title: "Turing Machines"
 #  lecturer: Lane Schwartz
@@ -840,6 +818,29 @@
 -
 # title: "Final day of class"
   lecturer: Lane Schwartz
+  reading:
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"
+    -
+      author: Hulden
+      title: "Foma: a finite-state compiler and library"
+      url: http://aclweb.org/anthology/E/E09/E09-2008.pdf
+      pages: "29‑32"
+      length:
+          value: 4
+          unit: "pages"
+    -
+      author: Hulden
+      title: "The foma FST compiler"
+      url: https://github.com/mhulden/foma/blob/master/foma/docs/simpleintro.md
+      length:
+          value: 7
+          unit: "pages"
 -
 # title: Reading day
   lecturer: Lane Schwartz
