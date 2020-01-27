@@ -247,7 +247,7 @@
           value: 21
           unit: "pages"  
 -
-# title: "Set Theory and Functions (pt.1)"
+  title: "Set Theory"
   lecturer: Lane Schwartz
   reading:
     -
@@ -258,42 +258,6 @@
       length:
           value: 24
           unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 2 - "Relations and Functions"
-      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
-      pages: "27‑36"
-      length:
-          value: 10
-          unit: "pages"
-    -
-      author: Partee et al.
-      title: Chapter 16 - "Basic Concepts"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
-      pages: "433‑454"
-      length:
-          value: 22
-          unit: "pages"    
-    -
-      author: Partee et al.
-      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
-      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
-      pages: "455‑482"
-      length:
-          value: 28
-          unit: "pages" 
-#-
-#  title: "Turing Machines"
-#  lecturer: Lane Schwartz
-#  reading:
-#    -
-#      author: Turing (1937)
-#      title: "On Computable Numbers, with an Application to the Entscheidungsproblem"
-#      url: http://onlinelibrary.wiley.com/doi/10.1112/plms/s2-42.1.230/epdf
-#    -
-#      author: Turing (1937)
-#      title: "On Computable Numbers, with an Application to the Entscheidungsproblem. A Correction"
-#      url: http://onlinelibrary.wiley.com/doi/10.1112/plms/s2-43.6.544/epdf
 -
 # title: Formal language theory (pt.1)
   lecturer: Lane Schwartz
@@ -338,6 +302,63 @@
       length:
           value: 5
           unit: "pages"
+-
+  title: "Relations and Functions"
+  lecturer: Lane Schwartz
+  reading:          
+    -
+      author: Partee et al.
+      title: Chapter 2 - "Relations and Functions"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_2.pdf"
+      pages: "27‑36"
+      length:
+          value: 10
+          unit: "pages"
+    -
+      author: Partee et al.
+      title: Chapter 4 - "Infinities"
+      url: "https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_4.pdf"
+      pages: "55‑73"
+      length:
+          value: 19
+          unit: "pages"
+-
+  title: "Languages, Grammars, and Automata"
+  lecturer: Lane Schwartz
+  reading:          
+    -
+      author: Partee et al.
+      title: Chapter 16 - "Basic Concepts"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_16.pdf
+      pages: "433‑454"
+      length:
+          value: 22
+          unit: "pages"    
+-
+  title: "FSTs and Regular Languages"
+  lecturer: Lane Schwartz
+  reading:           
+    -
+      author: Partee et al.
+      title: Chapter 17 - "Finite Automata, Regular Languages and Type 3 Grammars"
+      url: https://link.springer.com/content/pdf/10.1007%2F978-94-009-2213-6_17.pdf
+      pages: "455‑482"
+      length:
+          value: 28
+          unit: "pages" 
+#-
+#  title: "Turing Machines"
+#  lecturer: Lane Schwartz
+#  reading:
+#    -
+#      author: Turing (1937)
+#      title: "On Computable Numbers, with an Application to the Entscheidungsproblem"
+#      url: http://onlinelibrary.wiley.com/doi/10.1112/plms/s2-42.1.230/epdf
+#    -
+#      author: Turing (1937)
+#      title: "On Computable Numbers, with an Application to the Entscheidungsproblem. A Correction"
+#      url: http://onlinelibrary.wiley.com/doi/10.1112/plms/s2-43.6.544/epdf
+
 -
 #  title: "The Chomsky Hierarchy"
 # title: "Set Theory and Functions (pt.2)"
