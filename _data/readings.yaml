@@ -744,48 +744,44 @@
       length:
           value: 35
           unit: "pages"
--
+#-
 # title: 
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Tantau
-      title: "Chapter 2 - Tutorial: A Picture for Karl’s Students"
-      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
-      optional: true
-      pages: "30‑48"
-      length:
-          value: 19
-          unit: "pages"
-    -
-      author: Tantau
-      title: "Chapter 3 - Tutorial: A Petri-Net for Hagen"
-      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
-      pages: "49‑60"
-      length:
-          value: 12
-          unit: "pages"
-    -
-      author: Tantau
-      title: "Chapter 5 - Tutorial: Diagrams as Simple Graphs"
-      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
-      pages: "69‑77"
-      length:
-          value: 9
-          unit: "pages"
-    -
-      author: Tantau
-      title: "Chapter 6 - Tutorial: A Lecture Map for Johannes"
-      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
-      optional: true
-      pages: "78‑92"
-      length:
-          value: 15
-          unit: "pages"
--
-# title: "Applications"
-  lecturer: Lane Schwartz
-  reading:
+#  lecturer: Lane Schwartz
+#  reading:
+#    -
+#      author: Tantau
+#      title: "Chapter 2 - Tutorial: A Picture for Karl’s Students"
+#      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+#      optional: true
+#      pages: "30‑48"
+#      length:
+#          value: 19
+#          unit: "pages"
+#    -
+#      author: Tantau
+#      title: "Chapter 3 - Tutorial: A Petri-Net for Hagen"
+#      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+#      pages: "49‑60"
+#      length:
+#          value: 12
+#          unit: "pages"
+#    -
+#      author: Tantau
+#      title: "Chapter 5 - Tutorial: Diagrams as Simple Graphs"
+#      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+#      pages: "69‑77"
+#      length:
+#          value: 9
+#          unit: "pages"
+#    -
+#      author: Tantau
+#      title: "Chapter 6 - Tutorial: A Lecture Map for Johannes"
+#      url: http://mirrors.ibiblio.org/CTAN/graphics/pgf/base/doc/pgfmanual.pdf
+#      optional: true
+#      pages: "78‑92"
+#      length:
+#          value: 15
+#          unit: "pages"
 -
 # title: Supervised learning
   lecturer: Lane Schwartz
@@ -901,6 +897,3 @@
       length:
           value: 7
           unit: "pages"
--
-# title: Reading day
-  lecturer: Lane Schwartz
