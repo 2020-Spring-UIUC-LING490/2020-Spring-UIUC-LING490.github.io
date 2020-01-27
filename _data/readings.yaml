@@ -202,7 +202,7 @@
           value: 1
           unit: "pages"     
 -
-# title: "Hands-on"
+  title: "A Gentle Introduction"
   lecturer: Lane Schwartz
   reading:
     -
@@ -222,9 +222,18 @@
           value: 17
           unit: "pages"
     -
+      author: Beesley and Karttunen
+      title: Chapter 1.5-1.9 - "A Gentle Introduction, part 2"
+      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
+      pages: "17‑37"
+      length:
+          value: 21
+          unit: "pages"            
+    -
       author: Gansner et al.
       title: Section 1 - "Drawing graphs with dot"
       url: "http://www.graphviz.org/pdf/dotguide.pdf"
+      optional: true
       pages: "1‑4"
       length:
           value: 4
@@ -237,14 +246,6 @@
       length:
           value: "13.4"
           unit: "minutes"  
-    -
-      author: Beesley and Karttunen
-      title: Chapter 1.5-1.9 - "A Gentle Introduction, part 2"
-      url: "https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml"
-      pages: "17‑37"
-      length:
-          value: 21
-          unit: "pages"  
 -
   title: "Set Theory"
   lecturer: Lane Schwartz
@@ -258,7 +259,7 @@
           value: 24
           unit: "pages"
 -
-# title: Formal language theory (pt.1)
+  title: A Systematic Introduction
   lecturer: Lane Schwartz
   reading:
     -
