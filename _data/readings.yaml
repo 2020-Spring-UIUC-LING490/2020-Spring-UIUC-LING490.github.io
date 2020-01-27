@@ -333,7 +333,16 @@
       pages: "433‑454"
       length:
           value: 22
-          unit: "pages"    
+          unit: "pages"   
+    -
+      author: Chomsky (1956)
+      title: "Three Models for the Description of Language"
+      url: https://chomsky.info/wp-content/uploads/195609-.pdf
+      optional: true
+      pages: "113‑124"
+      length:
+          value: 12
+          unit: "pages"          
 -
   title: "FSTs and Regular Languages"
   lecturer: Lane Schwartz
@@ -365,8 +374,8 @@
   lecturer: Lane Schwartz
   reading:
     -
-      author: Estimated approximate date 
-      title: Exam 1
+      title: Estimated approximate date 
+      author: Exam 1
     -
       author: Beesley and Karttunen
       title: "Chapter 3.1 - The xfst Interface"
@@ -717,6 +726,9 @@
 # title: "Set Theory and Functions (pt.3)"
   reading:
     -
+      title: Estimated approximate date 
+      author: Exam 2
+    -
       author: Beesley and Karttunen
       title: "Chapter 9 - Finite State Linguistic Applications"
       url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
@@ -725,37 +737,9 @@
           value: 35
           unit: "pages"
 -
-#  title: Morphology
-  lecturer: Lane Schwartz
-  reading:
-
--
-# title: "Testing and Debugging"
-  lecturer: Lane Schwartz
-  reading:
-    - 
-      author: Midterm exam review
-      title: Tuesday, Mar 26
--
-# title: "Flag Diacritics"
-  lecturer: Lane Schwartz
-  reading:
-    - 
-      author: Midterm exam
-      title: Thursday, Mar 28
--
 # title: 
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Chomsky (1956)
-      title: "Three Models for the Description of Language"
-      url: https://chomsky.info/wp-content/uploads/195609-.pdf
-      optional: true
-      pages: "113‑124"
-      length:
-          value: 12
-          unit: "pages"
     -
       author: Tantau
       title: "Chapter 2 - Tutorial: A Picture for Karl’s Students"
