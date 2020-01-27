@@ -669,6 +669,7 @@
     -
       author: Karttunen
       title: "The Proper Treatment of Optimality in Computational Phonology"
+      optional: true
       url: http://www.aclweb.org/anthology/W98-1301
       pages: "1‑11"
       length:
