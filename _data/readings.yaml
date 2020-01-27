@@ -631,7 +631,15 @@
       pages: "28-38"
       length:
           value: 10
-          unit: "pages"  
+          unit: "pages"
+    -
+      author: Karttunen
+      title: "The Proper Treatment of Optimality in Computational Phonology"
+      url: http://www.aclweb.org/anthology/W98-1301
+      pages: "1‑11"
+      length:
+          value: 11
+          unit: "pages"          
 -
   title: "Two-Level Morphology" 
   lecturer: Lane Schwartz
@@ -866,18 +874,6 @@
       url: "https://web.archive.org/web/20161231023914/http://www-01.sil.org:80/pckimmo/v2/doc/twolphon.html"
       length:
           value: 17
-          unit: "pages"
--
-# title: Optimality Theory
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Karttunen
-      title: "The Proper Treatment of Optimality in Computational Phonology"
-      url: http://www.aclweb.org/anthology/W98-1301
-      pages: "1‑11"
-      length:
-          value: 11
           unit: "pages"
 -
 # title: "Final day of class"
