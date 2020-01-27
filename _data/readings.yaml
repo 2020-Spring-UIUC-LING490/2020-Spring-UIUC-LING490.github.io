@@ -229,23 +229,32 @@
       length:
           value: 21
           unit: "pages"            
-    -
-      author: Gansner et al.
-      title: Section 1 - "Drawing graphs with dot"
-      url: "http://www.graphviz.org/pdf/dotguide.pdf"
-      optional: true
-      pages: "1‑4"
-      length:
-          value: 4
-          unit: "pages"
+#    -
+#      author: Gansner et al.
+#      title: Section 1 - "Drawing graphs with dot"
+#      url: "http://www.graphviz.org/pdf/dotguide.pdf"
+#      optional: true
+#      pages: "1‑4"
+#      length:
+#          value: 4
+#          unit: "pages"
     -
       author: Schwartz
       title: "Video lecture: Creating graphviz graphs with dot"
+      optional: true
       url: "https://www.youtube.com/watch?v=9B7w_fh4fg8"
       times: "0:00‑13:23"
       length:
           value: "13.4"
           unit: "minutes"  
+    -
+      author: Hulden
+      title: "Morphological analysis with FSTs"
+      optional: true
+      url: https://fomafst.github.io/morphtut.html
+      length:
+          value: 25
+          unit: "pages"          
 -
   title: "Set Theory"
   lecturer: Lane Schwartz
@@ -424,6 +433,14 @@
       length:
           value: 1
           unit: "pages"
+    -
+      author: Hulden
+      title: "The foma FST compiler"
+      optional: true
+      url: https://github.com/mhulden/foma/blob/master/foma/docs/simpleintro.md
+      length:
+          value: 7
+          unit: "pages"          
 -
   title: "A domain-specific language for finite-state morphology"
   lecturer: Lane Schwartz
@@ -480,6 +497,15 @@
       length:
           value: 1
           unit: "pages"
+    -
+      author: Hulden
+      title: "Foma: a finite-state compiler and library"
+      optional: true
+      url: http://aclweb.org/anthology/E/E09/E09-2008.pdf
+      pages: "29‑32"
+      length:
+          value: 4
+          unit: "pages"          
 -
   title: "A domain-specific language for representing lexicons"
   lecturer: Lane Schwartz
@@ -873,28 +899,6 @@
 # title: "Final day of class"
   lecturer: Lane Schwartz
   reading:
-    -
-      author: Hulden
-      title: "Morphological analysis with FSTs"
-      url: https://fomafst.github.io/morphtut.html
-      length:
-          value: 25
-          unit: "pages"
-    -
-      author: Hulden
-      title: "Foma: a finite-state compiler and library"
-      url: http://aclweb.org/anthology/E/E09/E09-2008.pdf
-      pages: "29‑32"
-      length:
-          value: 4
-          unit: "pages"
-    -
-      author: Hulden
-      title: "The foma FST compiler"
-      url: https://github.com/mhulden/foma/blob/master/foma/docs/simpleintro.md
-      length:
-          value: 7
-          unit: "pages"
 -
 # title: Two-level phonology
   lecturer: Lane Schwartz
