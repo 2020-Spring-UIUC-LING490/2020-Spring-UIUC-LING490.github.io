@@ -525,20 +525,8 @@
           value: 9
           unit: "pages"
 -
-# title: "Planning and Managing Finite-State Projects"
+  title: "Planning and Managing Finite-State Projects"
   slides: https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/16.pdf
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 7 - Flag Diacritics"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "339‑374"
-      length:
-          value: 36
-          unit: "pages"  
--
-# title: "Finite State Machines"
   lecturer: Lane Schwartz
   reading:
     -
@@ -591,6 +579,31 @@
           value: 4
           unit: "pages"
 -
+  title: "Spring Break"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Spring Break
+      title: Tuesday, Mar 17
+-
+  title: "Spring Break"
+  lecturer: Lane Schwartz
+  reading:
+    - 
+      author: Spring Break
+      title: Thursday, Mar 19
+-
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 7 - Flag Diacritics"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "339‑374"
+      length:
+          value: 36
+          unit: "pages"  
+-
 # title: "xfst/foma"
   lecturer: Lane Schwartz
   reading:
@@ -638,20 +651,6 @@
       length:
           value: 45
           unit: "pages"   
--
-  title: "Spring Break"
-  lecturer: Lane Schwartz
-  reading:
-    - 
-      author: Spring Break
-      title: Tuesday, Mar 17
--
-  title: "Spring Break"
-  lecturer: Lane Schwartz
-  reading:
-    - 
-      author: Spring Break
-      title: Thursday, Mar 19
 -
 #  title: "Drawing in LaTeX using TikZ/PGF" 
   lecturer: Lane Schwartz
