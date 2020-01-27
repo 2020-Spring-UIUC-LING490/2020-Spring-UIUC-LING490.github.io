@@ -365,7 +365,8 @@
   lecturer: Lane Schwartz
   reading:
     -
-      title: Estimated approximate date for Exam 1
+      author: Estimated approximate date 
+      title: Exam 1
     -
       author: Beesley and Karttunen
       title: "Chapter 3.1 - The xfst Interface"
@@ -595,18 +596,63 @@
       author: Spring Break
       title: Thursday, Mar 19
 -
+  title: "Two-Level Morphology" 
   lecturer: Lane Schwartz
   reading:
     -
       author: Beesley and Karttunen
-      title: "Chapter 7 - Flag Diacritics"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "339‑374"
+      title: "Section 1 - Introduction to twolc"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "1‑13"
       length:
-          value: 36
+          value: 13
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Section 2 - Basic twolc Syntax"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "14-28"
+      length:
+          value: 15
+          unit: "pages" 
+    -
+      author: Beesley and Karttunen
+      title: "Section 3 - Full twolc Syntax"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "28-38"
+      length:
+          value: 10
           unit: "pages"  
 -
-# title: "xfst/foma"
+  title: "Two-Level Morphology" 
+  lecturer: Lane Schwartz
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Section 4 - The Art and Craft of Writing twolc Grammars"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "38-44"
+      length:
+          value: 6
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Section 5 - Debugging twolc Rules"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "44-62"
+      length:
+          value: 18
+          unit: "pages" 
+    -
+      author: Beesley and Karttunen
+      title: "Section 6 - Final Reflections on Two-Level Rules"
+      url: https://web.stanford.edu/~laurik/.book2software/twolc.pdf
+      pages: "62-65"
+      length:
+          value: 3
+          unit: "pages"            
+-
+  title: "Testing and Debugging"
   lecturer: Lane Schwartz
   reading:
     -
@@ -642,7 +688,19 @@
           value: 12
           unit: "pages"
 -
-# title: "Regular Expressions and Finite State Machines"
+  lecturer: Lane Schwartz
+  title: Flag Diacritics
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 7 - Flag Diacritics"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "339‑374"
+      length:
+          value: 36
+          unit: "pages"  
+-
+  title: "Non-Concatenative Morphotactics"
   lecturer: Lane Schwartz
   reading:
     -
@@ -654,7 +712,7 @@
           value: 45
           unit: "pages"   
 -
-#  title: "Drawing in LaTeX using TikZ/PGF" 
+  title: "Applications of FSTs" 
   lecturer: Lane Schwartz
 # title: "Set Theory and Functions (pt.3)"
   reading:
