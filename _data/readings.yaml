@@ -201,7 +201,15 @@
       pages: "123"
       length:
           value: 1
-          unit: "pages"     
+          unit: "pages"    
+    -
+      author: Rosenfelder
+      title: Chapter 4 - "Word Building"
+      url: https://www.amazon.com/Language-Construction-Kit-Mark-Rosenfelder-ebook-dp-B005RX79Z4/dp/B005RX79Z4/ref=mt_kindle?_encoding=UTF8&me=&qid=
+      pages: "50-56"
+      length: 
+          value: 6
+          unit: "pages"          
 -
   title: "A Gentle Introduction to Finite-State Morphology"
   lecturer: Lane Schwartz
