@@ -880,6 +880,14 @@
   lecturer: Lane Schwartz
   reading: 
     -
+      author: Xu et al
+      title: "Unsupervised Morphology Learning with Statistical Paradigms"
+      url: https://www.aclweb.org/anthology/C18-1005.pdf
+      pages: "44‑54"
+      length:
+          value: 10
+          unit: "pages"
+    -
       author: Hulden et al
       title: "Semi-supervised learning of morphological paradigms and lexicons"
       url: http://aclweb.org/anthology/E/E14/E14-1060.pdf
