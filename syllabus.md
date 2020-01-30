@@ -17,7 +17,7 @@ active_tab: syllabus
 
 
 <h4>TA</h4>
-[Giang Ha Le](https://linguistics.illinois.edu/directory/profile/gianghl2) - Office hours TBD
+[Giang Ha Le](https://linguistics.illinois.edu/directory/profile/gianghl2) - Office hours Fri 2:00 PM - 3:00 PM in [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room 3028.
 
 <h4>Time and place</h4>
 Tuesdays and Thursdays 9:30-10:50 AM, [Foreign Languages Building](http://ada.fs.illinois.edu/0172.html), room G23
