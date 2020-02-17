@@ -1,0 +1,337 @@
+\documentclass{beamer}
+\usecolortheme{whale}
+\useinnertheme[shadow]{rounded}
+\usenavigationsymbolstemplate{}
+\usepackage[subsection=false,footline=outlineauthortitle]{beamerouterthememiniframesbottom}
+\usepackage{tikz}
+\usetikzlibrary{backgrounds,fit,shapes.misc}
+\setbeamercovered{transparent}
+
+\title[LING 490]{Computational Morphology}
+\author[Week 01 of 16 --- Day 01 of 29]{Lane Schwartz}
+\institute[shortinst]{University of Illinois at Urbana-Champaign}
+
+\date{Week 05 of 16 --- Day 08 of 29}
+
+\begin{document}
+
+% Specify that no bibliography should be printed
+\bibliographystyle{plainnat}
+
+\frame{\titlepage}
+
+	\begin{frame}
+		Barbara Partee, Alice Ter Meulen, and Robert E. Wall. \textit{Basic Concepts}: Chapter 16 of \textit{Mathematical Methods in Linguistics}. 1993.
+	\end{frame}
+
+
+	\section{Languages, grammars, and automata}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Languages, grammars, and automata
+			\item a natural language is simply a set of strings
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Not every possible sequence is in the language: we distinguish the grammatical strings from those that are ungrammatical.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item A grammar is some explicit device for selecting a subset of strings, those that are grammatical, from the set of all possible strings formed from an initially given alphabet or vocabulary.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item two classes of formal devices function as grammars:
+			\item (1) automata, which are abstract computing machines
+			\item (2) string rewriting systems
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Given a finite set A, a string is a finite sequence of occurrences of elements from A
+			\item For example, if A = \{a, b, c\}, then acbaab is a string on A
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Strings are by definition finite in length.
+			\item The set from which strings are formed is often called the vocabulary or alphabet, and this too is always assumed to be finite
+			\item We also recognize the (unique) string of length $0$, the empty string, which we will denote $e$
+			\item Two strings are identical if they have the same symbol occurrences in the same order
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item An important binary operation on strings is concatenation
+			\item A frequently encountered unary operation on strings is reversal
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Concatenation is associative but it is not commutative
+			\item The empty string is the identity element for concatenation
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Given a string $x$, a substring of $x$ is any string formed from contiguous occurrences of symbols in $x$ taken in the same order in which they occur in $x$.
+			\item An initial substring is called a prefix, and a final substring, a suffix.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item We may now define a language (over a vocabulary $A$) as any subset of $A$.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item The study of formal languages is essentially the investigation of a scale of complexity in this patterning in strings.
+		\end{itemize}
+	\end{frame}
+
+
+	\section{Grammars}
+
+	\begin{frame}
+		\begin{itemize}
+			\item A formal grammar is essentially a deductive system of axioms and rules of inference which generates the sentences of a language as its theorems.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item a grammar contains just one axiom, the string consisting of the initial symbol (usually S),
+			\item and a finite number of rules of the form $\psi \rightarrow \omega$, where $\psi$ and $\omega$ strings, and the interpretation of a rule is the following: whenever $\psi$ occurs as a substring of any given string, that occurrence may be replaced by $\omega$ to yield a new string .
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Grammars use two alphabets: a terminal alphabet and a non-terminal alphabet, which are assumed to be disjoint.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item the sentences of the language, are strings over the terminal alphabet
+			\item intermediate strings in derivations may contain symbols from both alphabets.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item the sentences of the language, are strings over the terminal alphabet
+			\item intermediate strings in derivations may contain symbols from both alphabets.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item $V_T$ (the terminal alphabet) = {$a, b$}
+			\item $V_N$ (the non-terminal alphabet) = $\{S, A, B\}$
+			\item $S$ (the initial symbol --- a member of $V_N$)
+			\item R (the set of rules) = $S \rightarrow ABS$, $S \rightarrow e$, $AB \rightarrow BA$, $BA \rightarrow AB$, $A \rightarrow a$, $B \rightarrow b$
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item A common notational convention is to use lower case letters for the terminal alphabet and upper case letters for the non-terminal alphabet.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item A derivation of the string abba by this grammar could proceed as follows:
+			\item $S \Longrightarrow ABS \Longrightarrow ABABS \Longrightarrow ABAB \Longrightarrow ABBA \Longrightarrow ABbA \Longrightarrow aBbA \Longrightarrow abbA \Longrightarrow abba$
+			\item the symbol $\Longrightarrow$ means ``yields in one rule application''
+			\item The sequence is said to be a derivation of abba, and the string abba is said to be generated by the grammar
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item The language generated by the grammar is the set of all strings generated.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Let $\Sigma = V_T \cup V_N$
+			\item A formal grammar $G$ is a quadruple $(V_T, V_N, S, R)$, where $V_T$ and $V_N$ are finite disjoint sets, $S$ is a distinguished member of $V_T$, and $R$ is a finite set of ordered pairs in $\Sigma^{*} V_N \Sigma^{*} \times \Sigma^{*}$.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Given a grammar $G = (V_T, V_N, S, R)$, a derivation is a sequence of strings $x_1, x_2, \ldots ,x_n$ (n 1) such that $x_1 = S$ and for each $x_i (2 \leq i \leq n)$, $x_i$ is obtained from $x_{i-1}$ by one application of some rule in $R$.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item A grammar $G$ generates a string $x \in V_T^{*}$ if there is a derivation $x1, \ldots ,x_n$ by $G$ such that $x_n = x$.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item The language generated by a grammar $G$, denoted $L(G)$, is the set of all strings generated by $G$.
+		\end{itemize}
+	\end{frame}
+
+
+
+	\section{Grammars and Trees}
+
+	\begin{frame}
+		\begin{itemize}
+			\item When the rules of a grammar are restricted to rewriting only a single non-terminal symbol, it is possible to construe grammars as generating constituent structure trees rather than simply strings.
+			\item a tree diagram is ordinarily drawn upside down since the root is at the top and the leaves are at the bottom
+			\item a tree is invariably singly rooted
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item $A \rightarrow \psi / \alpha \_\_ \beta$
+			\item the $/$ is read ``in the context'', and where \_ marks the position of the $A$
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Grammars and Trees
+			\item $A \rightarrow \psi / \alpha \_\_ \beta$
+			\item the $/$ is read ``in the context'', and where \_ marks the position of the $A$
+			\item The interpretation of such a rule is that the symbol $A$ can be replaced by the string $\psi$ in a derivation only when the string $\alpha$ immediately precedes $A$ and the string $\beta$ immediately follows $A$
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Such rules are called \textbf{context sensitive} in contrast to rules of the form $A \rightarrow \psi$, which are called context free
+			\item A context free rule, thus, is a context sensitive rule in which the context is null
+		\end{itemize}
+	\end{frame}
+
+
+	\section{The Chomsky Hierarchy}
+
+	\begin{frame}
+		\begin{itemize}
+			\item At the top are the most general grammars
+			\item There are no restrictions on the form of the rules except that the left side cannot be the empty string.
+			\item Chomsky dubbed such grammars 'Type 0,' and they are also sometimes called unrestricted rewriting systems
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Type 1: each rule is of the form $\alpha A \beta \rightarrow \alpha \psi \beta$ where $\psi \neq e$
+			\item Type 2: each rule is of the form $A \rightarrow \psi$
+			\item Type 3: each rule is of the form $A \rightarrow x B$ or $A \rightarrow x$
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item In the above $\alpha$, $\beta$, and $\psi$ are arbitrary strings (possibly empty unless otherwise specified) over the union of the terminal and non-terminal alphabets; $A$ and $B$ are non-terminals, and $x$ is a string of terminal symbols
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Type 1 grammars are also called context sensitive
+			\item Type 2 grammars are called context free
+			\item Type 3 grammars are called regular
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item these classes of grammars do not form a strict hierarchy in the sense that each type is a subclass of the one with the next lower number
+			\item because rules of the form $A \rightarrow e$ are allowed in Type 2 grammars, these are not properly contained in Type 1.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item the Type 3 languages are properly included in the Type 2 languages;
+			\item the Type 2 languages not containing the empty string are properly included in the Type 1 languages;
+			\item the Type 1 languages are properly included in the Type 0 languages.
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Languages and automata
+			\item languages can also be characterized by abstract computing devices called automata
+			\item An automaton is an idealized abstract computing machine
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Central to the notion of the structure of an automaton is the concept of a state.
+			\item An automaton may also have a memory.
+			\item For the simplest automata, the memory consists simply of the states themselves
+			\item More powerful automata may be outfitted with additional devices, generally "tapes" on which the machine can read and write symbols and do "scratch work"
+		\end{itemize}
+	\end{frame}
+
+
+	\begin{frame}
+		\begin{itemize}
+			\item Automata may be regarded as devices for computing functions, i.e., for pairing inputs with outputs, but we will normally view them as acceptors, i.e., devices which, when given an input, either accept or reject it after some finite amount of computation. In particular, if the input is a string over some alphabet A, then an automaton can be thought of as the acceptor of some language over A and the rejector of its complement. As we will see, it is also possible to regard automata as generators of strings and languages in a manner similar to grammars
+		\end{itemize}
+	\end{frame}
+
+\end{document}
