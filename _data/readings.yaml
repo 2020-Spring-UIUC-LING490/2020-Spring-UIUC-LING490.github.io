@@ -639,13 +639,53 @@
 -
   title: "Spring Break"
 -
-# title: "Final day of class"
+  title: "Testing and Debugging"
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.1 - The Challenge of Testing and Debugging"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "311"
+      length:
+          value: 1
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.2 - Testing on Real Corpora"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "311‑319"
+      length:
+          value: 9
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.3 - Checking the Alphabet"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "319‑327"
+      length:
+          value: 9
+          unit: "pages"
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 6.4 - Testing with Subtraction"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "327‑338"
+      length:
+          value: 12
+          unit: "pages"
 -
-# title: Two-level phonology
   lecturer: Lane Schwartz
+  title: Flag Diacritics
   reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 7 - Flag Diacritics"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "339‑374"
+      length:
+          value: 36
+          unit: "pages"  
 -
   title: "Two-Level Morphology" 
   lecturer: Lane Schwartz
@@ -720,54 +760,6 @@
           value: 17
           unit: "pages"          
 -
-  title: "Testing and Debugging"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 6.1 - The Challenge of Testing and Debugging"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "311"
-      length:
-          value: 1
-          unit: "pages"
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 6.2 - Testing on Real Corpora"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "311‑319"
-      length:
-          value: 9
-          unit: "pages"
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 6.3 - Checking the Alphabet"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "319‑327"
-      length:
-          value: 9
-          unit: "pages"
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 6.4 - Testing with Subtraction"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "327‑338"
-      length:
-          value: 12
-          unit: "pages"
--
-  lecturer: Lane Schwartz
-  title: Flag Diacritics
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 7 - Flag Diacritics"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "339‑374"
-      length:
-          value: 36
-          unit: "pages"  
--
   title: "Non-Concatenative Morphotactics"
   lecturer: Lane Schwartz
   reading:
@@ -780,13 +772,21 @@
           value: 45
           unit: "pages"   
 -
-  title: "Applications of FSTs" 
+# title: "Final day of class"
   lecturer: Lane Schwartz
-# title: "Set Theory and Functions (pt.3)"
   reading:
     -
       title: Estimated approximate date 
       author: Exam 2
+-
+# title: Two-level phonology
+  lecturer: Lane Schwartz
+  reading:
+-
+  title: "Applications of FSTs" 
+  lecturer: Lane Schwartz
+# title: "Set Theory and Functions (pt.3)"
+  reading:
     -
       author: Beesley and Karttunen
       title: "Chapter 9 - Finite State Linguistic Applications"
