@@ -659,6 +659,14 @@
   lecturer: Lane Schwartz
   reading:
     -
+      author: Okrand
+      title: "Chapter 5: Other Kinds of Words"
+      url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
+      pages: "51-58"
+      length:
+         value: 8
+         unit: "pages"
+    -
       author: Beesley and Karttunen
       title: "Chapter 6.1 - The Challenge of Testing and Debugging"
       url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
@@ -694,6 +702,14 @@
   lecturer: Lane Schwartz
   title: Flag Diacritics
   reading:
+    -
+      author: Okrand
+      title: "Chapter 6: Syntax"
+      url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
+      pages: "51-58"
+      length:
+         value: 8
+         unit: "pages"
     -
       author: Beesley and Karttunen
       title: "Chapter 7 - Flag Diacritics"
