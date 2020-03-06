@@ -550,6 +550,14 @@
   reading:
     -
       author: Okrand
+      title: "Chapter 1: The Sounds of Klingon"
+      url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
+      pages: "13-17"
+      length:
+         value: 5
+         unit: "pages"
+    -
+      author: Okrand
       title: "Chapter 3: Nouns"
       url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
       pages: "19-31"
@@ -585,6 +593,14 @@
   slides: https://github.com/2019-Spring-UIUC-LING490-LS3/lectures/raw/master/16.pdf
   lecturer: Lane Schwartz
   reading:
+    -
+      author: Okrand
+      title: "Chapter 4: Verbs"
+      url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
+      pages: "32-50"
+      length:
+         value: 13
+         unit: "pages"
     -
       author: Beesley and Karttunen
       title: "Chapter 5.0 - Planning and Managing Finite-State Projects"
