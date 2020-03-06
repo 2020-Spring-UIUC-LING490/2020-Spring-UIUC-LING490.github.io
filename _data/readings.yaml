@@ -639,6 +639,14 @@
 -
   title: "Spring Break"
 -
+# title: "Final day of class"
+  lecturer: Lane Schwartz
+  reading:
+-
+# title: Two-level phonology
+  lecturer: Lane Schwartz
+  reading:
+-
   title: "Two-Level Morphology" 
   lecturer: Lane Schwartz
   reading:
@@ -911,14 +919,6 @@
       length:
           value: 5
           unit: "pages"
--
-# title: "Final day of class"
-  lecturer: Lane Schwartz
-  reading:
--
-# title: Two-level phonology
-  lecturer: Lane Schwartz
-  reading:
 -
 # title: Two-level phonology
   lecturer: Lane Schwartz
