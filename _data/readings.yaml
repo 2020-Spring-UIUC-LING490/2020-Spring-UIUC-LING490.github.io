@@ -772,21 +772,13 @@
           value: 45
           unit: "pages"   
 -
-# title: "Final day of class"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      title: Estimated approximate date 
-      author: Exam 2
--
-# title: Two-level phonology
-  lecturer: Lane Schwartz
-  reading:
--
   title: "Applications of FSTs" 
   lecturer: Lane Schwartz
 # title: "Set Theory and Functions (pt.3)"
   reading:
+    -
+      title: Estimated approximate date 
+      author: Exam 2
     -
       author: Beesley and Karttunen
       title: "Chapter 9 - Finite State Linguistic Applications"
@@ -795,6 +787,14 @@
       length:
           value: 35
           unit: "pages"
+-
+# title: "Final day of class"
+  lecturer: Lane Schwartz
+  reading:
+-
+# title: Two-level phonology
+  lecturer: Lane Schwartz
+  reading:
 #-
 # title: 
 #  lecturer: Lane Schwartz
