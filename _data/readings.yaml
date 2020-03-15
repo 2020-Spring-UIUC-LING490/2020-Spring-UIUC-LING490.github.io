@@ -252,7 +252,7 @@
       title: "Video lecture: Creating graphviz graphs with dot"
       optional: true
       url: "https://www.youtube.com/watch?v=9B7w_fh4fg8"
-      times: "0:00‑13:23"
+      times: "00:00‑13:23"
       length:
           value: "13.4"
           unit: "minutes"          
@@ -662,7 +662,7 @@
       author: Schwartz
       title: "Video lecture: Testing and Make"
       url: https://youtu.be/WpX9ax0s3ms
-      times: "55:23"
+      times: "00:00-55:23"
       length:
          value: 53
          unit: "minutes"
