@@ -712,6 +712,22 @@
   reading:
     -
       author: Schwartz
+      title: "Video lecture: Flag Diacritics - the Unification Operator"
+      url: https://www.youtube.com/watch?v=r6jJhQ4sXUA
+      times: "00:00-16:59"
+      length:
+         value: 17
+         unit: "minutes"https://www.youtube.com/watch?v=rOvjDYNy50g
+    -
+      author: Schwartz
+      title: "Video lecture: Flag Diacritics - Various Operators"
+      url: https://www.youtube.com/watch?v=rOvjDYNy50g
+      times: "00:00-32:31"
+      length:
+         value: 32
+         unit: "minutes"
+    -
+      author: Schwartz
       title: "Video lecture: Flag Diacritics for Arabic definite and indefinite nouns"
       url: https://www.youtube.com/watch?v=zYbQTG1mH84
       times: "00:00-34:08"
