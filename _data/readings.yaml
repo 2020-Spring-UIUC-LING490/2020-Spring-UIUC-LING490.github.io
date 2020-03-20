@@ -751,6 +751,40 @@
           value: 36
           unit: "pages"  
 -
+  lecturer: Lane Schwartz
+  reading:
+-
+  lecturer: Lane Schwartz
+  reading:       
+-
+  title: "Non-Concatenative Morphotactics"
+  lecturer: Lane Schwartz
+  reading:
+    -
+      title: Estimated approximate date 
+      author: Exam 2
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 8 - Non-Concatenative Morphotactics"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "375-419"
+      length:
+          value: 45
+          unit: "pages"   
+-
+  title: "Applications of FSTs" 
+  lecturer: Lane Schwartz
+# title: "Set Theory and Functions (pt.3)"
+  reading:
+    -
+      author: Beesley and Karttunen
+      title: "Chapter 9 - Finite State Linguistic Applications"
+      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
+      pages: "421‑455"
+      length:
+          value: 35
+          unit: "pages"
+-
   title: "Two-Level Morphology" 
   lecturer: Lane Schwartz
   reading:
@@ -822,43 +856,7 @@
       url: "https://web.archive.org/web/20161231023914/http://www-01.sil.org:80/pckimmo/v2/doc/twolphon.html"
       length:
           value: 17
-          unit: "pages"          
--
-  title: "Non-Concatenative Morphotactics"
-  lecturer: Lane Schwartz
-  reading:
-    -
-      title: Estimated approximate date 
-      author: Exam 2
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 8 - Non-Concatenative Morphotactics"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "375-419"
-      length:
-          value: 45
           unit: "pages"   
--
-  title: "Applications of FSTs" 
-  lecturer: Lane Schwartz
-# title: "Set Theory and Functions (pt.3)"
-  reading:
-    -
-      author: Beesley and Karttunen
-      title: "Chapter 9 - Finite State Linguistic Applications"
-      url: https://web.stanford.edu/group/cslipublications/cslipublications/site/1575864347.shtml
-      pages: "421‑455"
-      length:
-          value: 35
-          unit: "pages"
--
-# title: "Final day of class"
-  lecturer: Lane Schwartz
-  reading:
--
-# title: Two-level phonology
-  lecturer: Lane Schwartz
-  reading:
 #-
 # title: 
 #  lecturer: Lane Schwartz
