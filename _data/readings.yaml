@@ -667,6 +667,14 @@
          value: 55
          unit: "minutes"
     -
+      author: Schwartz
+      title: "Video lecture: Tokenization using longest-match"
+      url: https://www.youtube.com/watch?v=F8F422GldwY
+      times: "00:00-23:35"
+      length:
+         value: 24
+         unit: "minutes"
+    -
       author: Okrand
       title: "Chapter 5: Other Kinds of Words"
       url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
