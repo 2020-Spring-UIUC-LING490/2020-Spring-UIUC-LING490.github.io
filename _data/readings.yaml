@@ -720,6 +720,7 @@
           unit: "pages"  
 -
   lecturer: Lane Schwartz
+  title: Implementing a Finite-State Analyzer for Klingon
   reading:
     -
       author: Okrand
@@ -747,6 +748,7 @@
          unit: "pages"  
 -
   lecturer: Lane Schwartz
+  title: Implementing a Finite-State Analyzer for Klingon
   reading:       
     -
       author: Okrand
