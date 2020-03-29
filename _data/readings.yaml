@@ -731,6 +731,14 @@
          unit: "pages"
     -
       author: Okrand
+      title: "Chapter 2: Grammatical Sketch"
+      url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
+      pages: "18"
+      length:
+         value: 1
+         unit: "pages"         
+    -
+      author: Okrand
       title: "Chapter 3: Nouns"
       url: https://www.simonandschuster.com/books/The-Klingon-Dictionary/Marc-Okrand/Star-Trek/9780671745592
       pages: "19-31"
