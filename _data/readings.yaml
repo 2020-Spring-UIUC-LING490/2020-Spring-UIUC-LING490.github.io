@@ -821,7 +821,7 @@
 -
   title: "Applications of FSTs" 
   lecturer: Lane Schwartz
-# title: "Set Theory and Functions (pt.3)"
+# title: "Set Theory and Functions (pt.3)" 
   reading:
     -
       author: Beesley and Karttunen
@@ -831,6 +831,14 @@
       length:
           value: 35
           unit: "pages"
+    -
+      author: Schwartz
+      title: "Video lecture: Tokenization of words"
+      url: https://www.youtube.com/watch?v=Yo7aeH90yvE
+      times: "00:00-49:00"
+      length:
+         value: 49
+         unit: "minutes"           
 -
   title: "Two-Level Morphology" 
   lecturer: Lane Schwartz
