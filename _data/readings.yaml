@@ -868,6 +868,30 @@
           value: 10
           unit: "pages"
     -
+      author: Schwartz
+      title: "Video lecture: Introduction to Two Level Morphology"
+      url: https://www.youtube.com/watch?v=ZH9CRdGyzuo
+      times: "00:00-24:40"
+      length:
+         value: 25
+         unit: "minutes"  
+    -
+      author: Schwartz
+      title: "Video lecture: Two Level Morphology with a toy grammar"
+      url: https://www.youtube.com/watch?v=KvifFarDRoU
+      times: "00:00-32:11"
+      length:
+         value: 32
+         unit: "minutes"
+    -
+      author: Schwartz
+      title: "Video lecture: Exporting transducers from twolc to foma"
+      url: https://www.youtube.com/watch?v=egtCuXx8Dc4
+      times: "00:00-14:17"
+      length:
+         value: 14
+         unit: "minutes"         
+    -
       author: Karttunen
       title: "The Proper Treatment of Optimality in Computational Phonology"
       optional: true
