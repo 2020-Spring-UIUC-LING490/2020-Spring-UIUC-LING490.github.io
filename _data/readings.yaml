@@ -995,6 +995,7 @@
       author: Hammarström and Borin
       title: Unsupervised Learning of Morphology
       pages: "309-336"
+      url: "https://www.aclweb.org/anthology/J11-2002.pdf"
       length:
           value: 28 
           unit: "pages"  
